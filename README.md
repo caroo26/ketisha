@@ -1,2 +1,0 @@
-# ketisha
-codes and scripts
